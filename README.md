@@ -62,6 +62,19 @@
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations. |
 
 
+## ‣ Coding Games:
+| Link | Description |
+| :--------: | -------- |
+| [FlexFrog Froggy](https://appbrewery.github.io/flexboxfroggy/) | A cute froggy game which will help you learn CSS *flex-box*. |
+| [Flexbox Zombies](https://mastery.games/flexboxzombies/) | Master your CSS *flex-box* knowledge through this zombie shooter game. |
+| [Grid Garden](https://cssgridgarden.com/) | Learn and master CSS *Grid* through this fun cute game. |
+| [CSS Dinner](https://flukeout.github.io/) | Brief challenges that hone in on working with ids and classes, end everything about CSS Selectors. |
+| [CSS Battle](https://cssbattle.dev/) | Compete with other players with your HTML and CSS skills to replicate a given target. |
+| [Codin Games](https://www.codingame.com/start/) | Level up your coding with games, puzzles, and challenges in 25+ languages. |
+| [RoboCode](https://robocode.sourceforge.io/) | Write code for AI Tanks to compete against other players, and try to win with your code. |
+| [CodeWars](https://www.codewars.com/) | Learn and master you favourite languages through these code challenges, and fine-tune your skills. |
+
+
 ## ‣ Free Resources:
 
 | Repo | Description |
