@@ -65,7 +65,7 @@
 ## ‣ Coding Games:
 | Link | Description |
 | :--------: | -------- |
-| [FlexFrog Froggy](https://appbrewery.github.io/flexboxfroggy/) | A cute froggy game which will help you learn CSS *flex-box*. |
+| [Flexbox Froggy](https://appbrewery.github.io/flexboxfroggy/) | A cute froggy game which will help you learn CSS *flex-box*. |
 | [Flexbox Zombies](https://mastery.games/flexboxzombies/) | Master your CSS *flex-box* knowledge through this zombie shooter game. |
 | [Grid Garden](https://cssgridgarden.com/) | Learn and master CSS *Grid* through this fun cute game. |
 | [CSS Dinner](https://flukeout.github.io/) | Brief challenges that hone in on working with ids and classes, end everything about CSS Selectors. |
@@ -133,7 +133,7 @@
 
 ## ‣ SDE Interview Tips:
 
-▣ [Prformance Tips](https://www.youtube.com/watch?v=ENH2hsuQKsQ) <br>
+▣ [Performance Tips](https://www.youtube.com/watch?v=ENH2hsuQKsQ) <br>
 ▣ [Placement Calender](https://www.youtube.com/watch?v=rKv98tE4De8) <br>
 
 ---
