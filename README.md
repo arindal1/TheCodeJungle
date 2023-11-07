@@ -104,6 +104,7 @@
 | [CS Reference](https://github.com/manjunath5496/Computer-Science-Reference-Books) | A list of refernce books for Computer Science enthusiasts. |
 | [Learn Anything](https://github.com/learn-anything/books) | List of books on different topics. |
 | [Awesome Python Books](https://github.com/junnplus/awesome-python-books) | Collection of good books for Python. |
+| [MLSC Collection](https://github.com/MLSC-BSOITR/Books-Collection) | Books on various Programming Languages, Concepts of coding, Software development. |
 
 
 ## ‣ Public APIs:
