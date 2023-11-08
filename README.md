@@ -60,9 +60,12 @@
 | [Work with JS](https://github.com/denysdovhan/wtfjs) | A list of funny and tricky JavaScript examples. |
 | [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations. |
+| [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context. |
+| [Noodle](https://github.com/noodle-run/noodle) | Noodle is a platform that aims to provide a single platform for students to manage everything to do with their education. We can provide students with powerful insights and automation to help them be more productive. |
 
 
 ## ‣ Coding Games:
+
 | Link | Description |
 | :--------: | -------- |
 | [Flexbox Froggy](https://appbrewery.github.io/flexboxfroggy/) | A cute froggy game which will help you learn CSS *flex-box*. |
@@ -91,6 +94,12 @@
 | [System Design Res](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet. |
 | [Competetive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) | Collection of resources for Competetive Programming  and System Design. |
 | [Awesome Design](https://github.com/gztchan/awesome-design) | Curated design resources from all over the world. |
+| [GTP4Free](https://github.com/xtekky/gpt4free) | The official gpt4free repository - various collection of powerful language models. |
+| [LeetCode Helper](https://github.com/huzecong/leetcode-contest-helper) | A LeetCode contest utility for the dead serious. Generate template code for local testing. |
+| [Consistency Models](https://github.com/openai/consistency_models) | This repository contains the codebase for Consistency Models, implemented using PyTorch for conducting large-scale experiments on ImageNet-64, LSUN Bedroom-256, and LSUN Cat-256. |
+| [Geneerative Models](https://github.com/Stability-AI/generative-models) | Collection of Generative Models by Stability AI. |
+| [Quotable](https://github.com/lukePeavey/quotable) | Collection of random qoutes APIs. |
+| [MD Tables](https://github.com/tgrosinger/md-advanced-tables) | A text editor independent library to enable formatting and Excel-style navigation, and spreadsheet formulas to Markdown tables. |
 
 
 ## ‣ Books:
@@ -112,6 +121,16 @@
 
 ## ‣ Public IP Cams:
 **Collection of *open* IP Cams from all over the world, right [here](https://github.com/fury999io/public-ip-cams).**
+
+
+## ‣ Open-Source Projects:
+[Good Open-Source Projects you can contribute to.]
+| Repo | Description |
+| :--------: | -------- |
+| [OLlama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally. |
+| [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [FiftyOne](https://github.com/voxel51/fiftyone) | The open-source tool for building high-quality datasets and computer vision models. |
+
 
 ---
 
