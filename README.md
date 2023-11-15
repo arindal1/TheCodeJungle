@@ -205,6 +205,9 @@
 
 **Feel free to contribute!** This *open-source* and *programming* community thrives from **contributions**, add anything that might help other fellow aspiring programmers and developers. Read [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for more details on commits, pull requests, and issues.
 
+<div align="center">
+<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a>  <a href="https://github.com/simanders" target="_blank"><img src="https://github.com/simanders.png" width="50px" height="50" style="border-radius: 50%;"></a>
+</div>
 
 **This repo was made for my own convenience and to help out my friends and juniors by gathering all the useful resources I knew of, but the more people it helps, the better :) I'll try and keep expanding this repo, and keep adding more info. Happy coding 🚀**
 
