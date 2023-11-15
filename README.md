@@ -62,6 +62,7 @@
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations. |
 | [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context. |
 | [Noodle](https://github.com/noodle-run/noodle) | Noodle is a platform that aims to provide a single platform for students to manage everything to do with their education. We can provide students with powerful insights and automation to help them be more productive. |
+| [Big O Cheatsheet](https://www.bigocheatsheet.com/) | A cheetsheet for everything to do with the Big O. |
 
 
 ## ‣ Coding Games:
@@ -149,12 +150,18 @@
 | [GFG SDE Sheet](https://www.youtube.com/watch?v=Tv_9zjGoV_Y&list=PLM68oyaqFM7QkIC6lOabwWq2PMejsRLKI) | [GDG](https://www.geeksforgeeks.org/) | Keeping in mind the importance of DSA we present to you "GFG SDE Sheet", where we will cover all the important topics from various data structures to different types of algorithms used. |
 | [Complete SDE](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) | [Love Babbar](https://www.youtube.com/@LoveBabbar) | Complete DS ALGO in 450 Questions for serious SDEs. |
 | [Apna College SDE](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0) | [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) | Around 400 DS Algo Problems to help for big interviews. |
+| [500 DSA](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions) | Vivek Shrivastav | 500 Data Structructes and Algorithm questions for Interview Prep. |
+
 
 
 ## ‣ SDE Interview Tips:
 
 ▣ [Performance Tips](https://www.youtube.com/watch?v=ENH2hsuQKsQ) <br>
 ▣ [Placement Calender](https://www.youtube.com/watch?v=rKv98tE4De8) <br>
+▣ [DP Roadmap](https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3) <br>
+▣ [Improve DSA Skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/) <br>
+▣ [Google Interview Qs](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
+▣ [Interview Question Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ---
 
