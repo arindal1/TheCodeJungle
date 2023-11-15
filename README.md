@@ -62,6 +62,7 @@
 | [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations. |
 | [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context. |
 | [Noodle](https://github.com/noodle-run/noodle) | Noodle is a platform that aims to provide a single platform for students to manage everything to do with their education. We can provide students with powerful insights and automation to help them be more productive. |
+| [Big O Cheatsheet](https://www.bigocheatsheet.com/) | A cheetsheet for everything to do with the Big O. |
 
 
 ## ‣ Coding Games:
@@ -130,7 +131,13 @@
 | [OLlama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally. |
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
 | [FiftyOne](https://github.com/voxel51/fiftyone) | The open-source tool for building high-quality datasets and computer vision models. |
-
+| [Hoodie](https://github.com/hoodiehq/hoodie) | Hoodie lets web developers build applications without worrying about a backend. |
+| [Hospital-Run](https://github.com/HospitalRun/hospitalrun-frontend) | HospitalRun is a beautiful, easy-to-use hospital management system built for developing world hospitals. The system is a full hospital information system and handles both patient care and the business of running a hospital. |
+| [Exercism](https://github.com/exercism/exercism) | Exercism is a platform where experienced and aspiring programmers can quickly ramp up their fluency in the basics of a new programming language. |
+| [Atom](https://github.com/atom/atom) | Atom is a modern, hackable text editor built with web technologies like JavaScript, HTML and CSS. It ships with a menagerie of packages and themes, along with a package manager to let you handle it all seamlessly. |
+| [HomeBrew](https://github.com/Homebrew/brew) | Homebrew installs open-source software and other applications on macOS. If you're a developer using a Mac, you may well have used this software. |
+| [Zulip](https://github.com/zulip/zulip) | Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations. |
+| [Middle-Man](https://github.com/middleman/middleman) | Middleman is a static site generator built in Ruby. The beauty of static sites is that they're blazingly fast and easy to deploy. The other beauty of static sites is that they always need frontend developers who can help make gorgeous templates for people to use. Middleman also has a rich extension ecosystem, which always needs contributors. |
 
 ---
 
@@ -149,12 +156,18 @@
 | [GFG SDE Sheet](https://www.youtube.com/watch?v=Tv_9zjGoV_Y&list=PLM68oyaqFM7QkIC6lOabwWq2PMejsRLKI) | [GDG](https://www.geeksforgeeks.org/) | Keeping in mind the importance of DSA we present to you "GFG SDE Sheet", where we will cover all the important topics from various data structures to different types of algorithms used. |
 | [Complete SDE](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) | [Love Babbar](https://www.youtube.com/@LoveBabbar) | Complete DS ALGO in 450 Questions for serious SDEs. |
 | [Apna College SDE](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0) | [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) | Around 400 DS Algo Problems to help for big interviews. |
+| [500 DSA](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions) | Vivek Shrivastav | 500 Data Structructes and Algorithm questions for Interview Prep. |
+
 
 
 ## ‣ SDE Interview Tips:
 
 ▣ [Performance Tips](https://www.youtube.com/watch?v=ENH2hsuQKsQ) <br>
 ▣ [Placement Calender](https://www.youtube.com/watch?v=rKv98tE4De8) <br>
+▣ [DP Roadmap](https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3) <br>
+▣ [Improve DSA Skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/) <br>
+▣ [Google Interview Qs](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions) <br>
+▣ [Interview Question Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) <br>
 
 ---
 
