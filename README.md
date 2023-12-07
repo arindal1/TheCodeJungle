@@ -35,6 +35,7 @@
 | [30 Sec Code](https://github.com/Chalarangelo/30-seconds-of-code) | Short code snippets for all your development needs. |
 | [Project Learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials and articles. |
 | [RealWorld Demo](https://github.com/gothinkster/realworld) | Exemplary fullstack Medium.com clone. |
+| [FrontEnd Projects](https://github.com/TusharKesarwani/Front-End-Projects/tree/main/Projects) | Collection of Front End Web dev projects. |
 | [Bag of Projects](resources/PROJECTS.md) | A collection of interesting projects from Code Jungle. |
 
 
