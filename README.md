@@ -4,9 +4,13 @@
    <b>Code Jungle is a repository that brings together a diverse range of content to help you on your journey in the world of programming and computer science. From APIs, books, tutorials to free resources, Code Jungle has a lot to offer. Take a look around the jungle and see what you need.</b><br>
    <br>
    <a href="https://github.com/arindal1/TheCodeJungle/pulls" target="_blank">
-      <img src="images/pullr.png"  width="80px" alt="pr"></a> <a href="https://github.com/arindal1" target="_blank">
-      <img src="images/git.png"  width="80px" alt="github"></a> <a href="https://twitter.com/arindal_17" target="_blank">
-      <img src="images/x.png"  width="80px" alt="twitter"></a><br>
+      <img src="images/pullr.png"  width="80px" alt="pr"></a>
+   <a href="https://github.com/arindal1" target="_blank">
+      <img src="images/git.png"  width="80px" alt="github"></a>
+   <a href="https://twitter.com/arindal_17" target="_blank">
+      <img src="images/x.png"  width="80px" alt="twitter"></a>
+   <a href="https://arindal1.github.io/TheCodeJungle/" target="_blank">
+      <img src="images/web.png"  width="80px" alt="page"></a><br>
 </div>
 <br>
 
