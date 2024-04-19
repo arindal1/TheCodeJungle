@@ -1,0 +1,305 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Kugile'; /* Name your custom font */
+    src: url('font/Kugile_Demo.ttf') format('truetype'); /* Specify the path to your .ttf font file */
+}
+
+@font-face {
+    font-family: 'Inkfree'; /* Name your custom font */
+    src: url('font/Inkfree.ttf') format('truetype'); /* Specify the path to your .ttf font file */
+}
+
+.montserrat-mons {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600; /* Replace <weight> with the desired font weight (100 to 900) */
+    font-style: normal;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111111;
+    color: #ffffff;
+}
+
+.container {
+    max-width: calc(100vw - 100px); /* 100px = 50px on each side */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+.navbar {
+    background-color: rgba(53, 53, 53, 0.8); /* Adjust the last value (0.7) to change the opacity */
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    width: 30px;
+}
+
+.logo img {
+    top: 40px;
+    width: 150px; /* Set the width as needed */
+    height: auto; /* This maintains the aspect ratio */
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    padding: 5px 10px; /* Add padding for better clickability */
+    display: inline-block; /* Add this line to prevent sudden jumps */
+    transition: transform 0.3s ease, color 0.3s ease; /* Add color transition */
+}
+
+.nav-links li a:hover {
+    transform: scale(1.1); /* Enlarge the text by 10% on hover */
+    color: #db0000; /* Change color on hover */
+}
+
+
+
+.banner {
+    background-image: url('path/to/your/banner-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Adjust height as needed */
+    position: relative;
+    z-index: 1; /* Ensure the banner is behind other elements */
+}
+
+.banner img {
+    width: 100%;
+}
+.intro {
+    top: 70px;
+    position: relative;
+    font-size: 30px;
+    font-family: 'Inkfree', sans-serif;
+    z-index: 2; /* Ensure intro is above the banner */
+    padding: 50px 0;
+    text-align: center;
+    color: rgb(173, 173, 173);
+}
+
+.sections {
+    top: 40px;
+    position: relative;
+    z-index: 2;
+    text-align: center; /* Center horizontally */
+}
+
+.section-links {
+    list-style: none;
+    padding: 0; /* Remove default padding */
+    display: inline-block; /* Display section links inline-block */
+}
+
+.section-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.section-links li:last-child {
+    margin-right: 0; /* Remove margin from the last item */
+}
+
+.section-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    padding: 10px 20px; /* Add padding for the black rectangle */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #000000; /* Black background */
+    transition: background-color 0.3s ease; /* Add transition for color change */
+}
+
+.section-links li a:hover {
+    background-color: #ce0000; /* Red background on hover */
+}
+
+.section {
+    top: 100px;
+    position: relative;
+    padding: 50px 0;
+    z-index: 2;
+}
+
+#useful-repos .container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center cards horizontally */
+    align-items: center; /* Center cards vertically */
+    flex-direction: column; /* Ensure cards are stacked vertically */
+}
+
+#useful-repos h2 {
+    font-family: "Inkfree";
+    font-size: 50px;
+}
+
+.card-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1550px; /* Adjust the max-width as needed */
+    margin: 0 auto; /* Center the container */
+    margin-top: 30px; 
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px; /* Rounded corners */
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+    border-radius: 10px; /* Rounded corners for image */
+}
+
+.card:hover img {
+    opacity: 0.5;
+}
+
+.card .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.card:hover .overlay {
+    opacity: 1;
+}
+
+.card .overlay p {
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.title {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 5px;
+    opacity: 1; /* Make title visible by default */
+    transition: opacity 0.3s ease; /* Add transition for smooth appearance/disappearance */
+}
+
+.card:hover .title {
+    opacity: 0; /* Hide title on hover */
+}
+
+#projects .container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center cards horizontally */
+    align-items: center; /* Center cards vertically */
+    flex-direction: column; /* Ensure cards are stacked vertically */
+}
+
+#projects h2 {
+    font-family: "Inkfree";
+    font-size: 50px;
+}
+
+.separator {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100px; /* Set the height of the container */
+}
+
+.separator img {
+    width: 800px;
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+}
+
+#study .container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center cards horizontally */
+    align-items: center; /* Center cards vertically */
+    flex-direction: column; /* Ensure cards are stacked vertically */
+}
+
+#study h2 {
+    font-family: "Inkfree";
+    font-size: 50px;
+}
+
+#coding-games .container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center cards horizontally */
+    align-items: center; /* Center cards vertically */
+    flex-direction: column; /* Ensure cards are stacked vertically */
+}
+
+#coding-games h2 {
+    font-family: "Inkfree";
+    font-size: 50px;
+}
+
+
+
+
+
+
+footer {
+    font-family: "Montserrat";
+    background-color: #1f1f1f; /* Background color for the footer */
+    color: #fff; /* Text color for the footer */
+    text-align: center; /* Center align the text */
+    margin-top: 45px;
+    padding: 20px 0; /* Add some padding for spacing */
+}
